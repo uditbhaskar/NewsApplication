@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dcc44f97376bb7bfaf59f94ccfce184e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\430de305a6e338162376c5d9b4937767\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c0cfa8fbccb53743ac5420b0aa4a7f10\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5b8096be8fdd807002da68afbb7ab5b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\7c2b900900a0968a9fd45f059da792f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\94b7ec3c3ca1016304eef70ed9fb636a\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\4e6dba796fe4f34ba6a58d73243fd147\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0921734c9ff7580a61bc7042e7418250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\149cd10f8c86c2ed6dacc9f2dce4b103\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\740de37e6fbe3aa62408994f72559f6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a1ffb56ffdf555f3aa6b793af81e107d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31d49d9aea36b66f3733a5330e03c287\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\65566dad09ce671cc96c85f2522340ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\968fdd1e6e51938afb96752f53a70728\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d3f69778803bf4c8bbd3a342bd73576e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6b5bcbec103fdef8de8a3ed0c1bb6836\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\75573c195215b8c74dddb337e5ccad95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c386af6ec5fe6a130fb761cd35715344\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b04234b179a1796b7fce12ee2adad020\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\491675e1d9c6b9867fc69f898773ee27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5625056f9d51e6fb449f94d70b26e252\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d07c49e4b739431d68ae75f99aa2494e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cd5cfcaa30c8a513ffbb7e521c723545\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f1f60011819a57ec15fb94695696fcb1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\867e08d6116c1ae0422973180f573bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\af6feb1cccde910f1557fd3006bcf15c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\34f11d55fad24c7e0965c98797a4ec40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ad6772f904241bccafb31f9fc74135d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3b5a642f8d59908e7362b101e4ff99b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f5716dc8d61d938860e24cc65bfabab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\309addcc65af2782184bf5739671299e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9e1ded322f7c2a82aad09397a287b882\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6d78f78a903394de56b1837b74572d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\39931f79fbdd3af68347087c0e778624\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8d5980f01413d059dafe048bc87458cf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dcc44f97376bb7bfaf59f94ccfce184e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dcc44f97376bb7bfaf59f94ccfce184e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c0cfa8fbccb53743ac5420b0aa4a7f10\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c0cfa8fbccb53743ac5420b0aa4a7f10\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5b8096be8fdd807002da68afbb7ab5b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5b8096be8fdd807002da68afbb7ab5b6\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\4e6dba796fe4f34ba6a58d73243fd147\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\4e6dba796fe4f34ba6a58d73243fd147\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cd5cfcaa30c8a513ffbb7e521c723545\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cd5cfcaa30c8a513ffbb7e521c723545\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f1f60011819a57ec15fb94695696fcb1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f1f60011819a57ec15fb94695696fcb1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cd5cfcaa30c8a513ffbb7e521c723545\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:12:9-45
+	android:icon
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:8:9-58
+activity#com.saharsh.newsfeed.NewsFeedActivity
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:15:9-83
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:15:19-71
+activity#com.saharsh.newsfeed.SourceActivity
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:16:19-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.saharsh.newsfeed.NewsDetailsActivity
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:23:9-77
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:23:19-74
+activity#com.saharsh.newsfeed.MainActivity
+ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:24:9-79
+	android:name
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml:24:19-67
+uses-sdk
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dcc44f97376bb7bfaf59f94ccfce184e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dcc44f97376bb7bfaf59f94ccfce184e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\430de305a6e338162376c5d9b4937767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\430de305a6e338162376c5d9b4937767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c0cfa8fbccb53743ac5420b0aa4a7f10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c0cfa8fbccb53743ac5420b0aa4a7f10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5b8096be8fdd807002da68afbb7ab5b6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5b8096be8fdd807002da68afbb7ab5b6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\7c2b900900a0968a9fd45f059da792f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\7c2b900900a0968a9fd45f059da792f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\94b7ec3c3ca1016304eef70ed9fb636a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\94b7ec3c3ca1016304eef70ed9fb636a\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\4e6dba796fe4f34ba6a58d73243fd147\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\4e6dba796fe4f34ba6a58d73243fd147\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0921734c9ff7580a61bc7042e7418250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0921734c9ff7580a61bc7042e7418250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\149cd10f8c86c2ed6dacc9f2dce4b103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\149cd10f8c86c2ed6dacc9f2dce4b103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\740de37e6fbe3aa62408994f72559f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\740de37e6fbe3aa62408994f72559f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a1ffb56ffdf555f3aa6b793af81e107d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a1ffb56ffdf555f3aa6b793af81e107d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31d49d9aea36b66f3733a5330e03c287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31d49d9aea36b66f3733a5330e03c287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\65566dad09ce671cc96c85f2522340ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\65566dad09ce671cc96c85f2522340ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\968fdd1e6e51938afb96752f53a70728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\968fdd1e6e51938afb96752f53a70728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d3f69778803bf4c8bbd3a342bd73576e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d3f69778803bf4c8bbd3a342bd73576e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6b5bcbec103fdef8de8a3ed0c1bb6836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6b5bcbec103fdef8de8a3ed0c1bb6836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\75573c195215b8c74dddb337e5ccad95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\75573c195215b8c74dddb337e5ccad95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c386af6ec5fe6a130fb761cd35715344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c386af6ec5fe6a130fb761cd35715344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b04234b179a1796b7fce12ee2adad020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b04234b179a1796b7fce12ee2adad020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\491675e1d9c6b9867fc69f898773ee27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\491675e1d9c6b9867fc69f898773ee27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5625056f9d51e6fb449f94d70b26e252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5625056f9d51e6fb449f94d70b26e252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d07c49e4b739431d68ae75f99aa2494e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d07c49e4b739431d68ae75f99aa2494e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cd5cfcaa30c8a513ffbb7e521c723545\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cd5cfcaa30c8a513ffbb7e521c723545\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f1f60011819a57ec15fb94695696fcb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f1f60011819a57ec15fb94695696fcb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\867e08d6116c1ae0422973180f573bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\867e08d6116c1ae0422973180f573bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\af6feb1cccde910f1557fd3006bcf15c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\af6feb1cccde910f1557fd3006bcf15c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\34f11d55fad24c7e0965c98797a4ec40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\34f11d55fad24c7e0965c98797a4ec40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ad6772f904241bccafb31f9fc74135d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ad6772f904241bccafb31f9fc74135d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3b5a642f8d59908e7362b101e4ff99b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3b5a642f8d59908e7362b101e4ff99b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f5716dc8d61d938860e24cc65bfabab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f5716dc8d61d938860e24cc65bfabab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\309addcc65af2782184bf5739671299e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\309addcc65af2782184bf5739671299e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9e1ded322f7c2a82aad09397a287b882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9e1ded322f7c2a82aad09397a287b882\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6d78f78a903394de56b1837b74572d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6d78f78a903394de56b1837b74572d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\39931f79fbdd3af68347087c0e778624\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\39931f79fbdd3af68347087c0e778624\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8d5980f01413d059dafe048bc87458cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kinnu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8d5980f01413d059dafe048bc87458cf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kinnu\AndroidStudioProjects\News-Feed-Android-App-\app\src\main\AndroidManifest.xml

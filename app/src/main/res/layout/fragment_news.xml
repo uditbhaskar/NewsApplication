@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="center"
+        android:id="@+id/news_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp" />
+    <TextView
+        android:id="@+id/news_title"
+        android:padding="10dp"
+        android:layout_below="@id/news_image"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is news,that i made recently..blah blah blah" />
+
+    <TextView
+        android:id="@+id/news_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/news_title"
+        android:padding="10dp"
+        android:text="fvskjfhdlaqho wqdhqwhdkshkhd qhdiwqhidhuhquidwqirqiioiiuqwiugqgr  ewbfsdbfbfbew hrherfuheh  qwhedhhdf eqwhdhw ww ih heh reohdi edh whd wehdhwefihwefjd   hfweihfh  erhfiiewhfwehf   rhewhfiwhfifhsd  hrhewhdhfhef erwhfdihf c erwhfiwehhfw ehwsdfewhih erhfewifhewf wefhhfhfd which will automatically display the page indicator for your pager. You might want to check out the popular ViewPagerIndicator for an improved page indicator. which will automatically display the page indicator for your pager. You might want to check out the popular ViewPagerIndicator for an improved page indicator. which will automatically display the page indicator for your pager. You might want to check out the popular ViewPagerIndicator for an improved page indicator.which will automatically di"
+        android:textSize="16sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/news_desc"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/news_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="By James Arthur"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:gravity="start"
+            android:layout_weight="1"
+            android:padding="5dp"
+            />
+        <TextView
+            android:id="@+id/news_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2019-04-18T16:18:34Z"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:gravity="end"
+            android:layout_weight="1"
+            android:padding="5dp"
+            />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

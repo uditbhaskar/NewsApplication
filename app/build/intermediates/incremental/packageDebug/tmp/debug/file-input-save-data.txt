@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Fri Dec 06 23:47:50 IST 2019
+1.base=C\:\\Users\\Kinnu\\AndroidStudioProjects\\News-Feed-Android-App-\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Kinnu\\AndroidStudioProjects\\News-Feed-Android-App-\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+3.set=ASSET
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=fonts/myriadregular.ttf
+count=4
+1.set=ASSET
+0.path=classes.dex
+3.base=C\:\\Users\\Kinnu\\AndroidStudioProjects\\News-Feed-Android-App-\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.set=DEX
+0.base=C\:\\Users\\Kinnu\\AndroidStudioProjects\\News-Feed-Android-App-\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.baseType=DIRECTORY
+1.path=fonts/myriad.ttf
