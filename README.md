@@ -1,5 +1,5 @@
 # NewsApplication
-**This is a newz app which shows top headlines and also allow user to select top news channels and categories with beautiful Ui.**
+**This is a news app which shows top headlines and also allow user to select top news channels and categories with beautiful Ui.**
 
 <img src="https://user-images.githubusercontent.com/26492582/67116152-7d235c00-f1fd-11e9-813a-6a7d69bb2fd0.png" width="300" height="600"/>  <img src="https://user-images.githubusercontent.com/26492582/67116149-7c8ac580-f1fd-11e9-9022-3a6e7d744ba5.png" width="300" height="600"/>
 
